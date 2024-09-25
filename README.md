@@ -1,2 +1,2 @@
 # greenergy
-Notes on insights!!!!
+Notes on insights.
